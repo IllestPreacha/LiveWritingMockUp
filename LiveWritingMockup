@@ -1,3 +1,7 @@
+
+
+The Functions
+
 WordFormat. 
 Generate. Chorus.
 Interna.l
@@ -7,6 +11,9 @@ Replace. Pause.
  Unplanned. Add. 
  Remove. More. Repeat.
 .
+
+Types
+
 Adjectives
  Nouns
  Verbs 
@@ -14,11 +21,16 @@ Adjectives
  Character
  Place
 
+
+
 Line
 Verse
 WordCount
 Rhymes
 Topics
+
+
+
 
 Wordtype. 
 Timer. 
@@ -27,9 +39,16 @@ Min.
 Type. 
 Random
 
+
+
+
 Topic 
 Theme 
-Languaget
+Language
+
+
+Potential Output and Langauge Structure
+
 
 
 Theme = Light
